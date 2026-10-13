@@ -170,17 +170,76 @@ I'm especially interested in the space where **software engineering, operating-s
 
 ---
 
-### Crypto support
+<!-- ━━━━━━━━━━━━━━━━━━━ CRYPTO SUPPORT ━━━━━━━━━━━━━━━━━━━ -->
 
-If you want to support my learning and independent projects, verified donation addresses will be listed here once they are published.
+<h2 align="center">₿ Support SMEEware with Crypto</h2>
 
-| Network | Address |
-| --- | --- |
-| ₿ Bitcoin (BTC) | *bc1q8rk0u8e2t8sfrcr4qagh823e824z5qyyy0kp27* |
-| ◆ Ethereum (ETH / ERC-20) | *0x30E1F587E36dDc2cD4fd912C94304C58508984ca* |
-| ◎ Solana (SOL) | *7CjsZVLm8SJM1KQhvep9nfkCvkrzFFkBQDmiYhWdMb43* |
+<p align="center">
+  <samp>Fuel independent development. Support open technology. Stay sovereign.</samp>
+</p>
 
-> **Safety note:** Always verify the network before sending funds. Addresses appear here only after independent verification.
+<p align="center">
+  <a href="https://bitcoin.org/">
+    <img src="https://img.shields.io/badge/BITCOIN-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  </a>
+  <a href="https://ethereum.org/">
+    <img src="https://img.shields.io/badge/ETHEREUM-ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+  </a>
+  <a href="https://solana.com/">
+    <img src="https://img.shields.io/badge/SOLANA-SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
+  </a>
+  <a href="https://www.getmonero.org/">
+    <img src="https://img.shields.io/badge/MONERO-XMR-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero">
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=040" width="48" alt="Bitcoin"><br>
+      <strong>Bitcoin</strong><br>
+      <sub>BTC · Mainnet</sub>
+    </td>
+    <td>
+      <code>bc1q8rk0u8e2t8sfrcr4qagh823e824z5qyyy0kp27</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040" width="48" alt="Ethereum"><br>
+      <strong>Ethereum</strong><br>
+      <sub>ETH · Mainnet</sub>
+    </td>
+    <td>
+      <code>0x30E1F587E36dDc2cD4fd912C94304C58508984ca</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=040" width="48" alt="Solana"><br>
+      <strong>Solana</strong><br>
+      <sub>SOL · Mainnet</sub>
+    </td>
+    <td>
+      <code>7CjsZVLm8SJM1KQhvep9nfkCvkrzFFkBQDmiYhWdMb43</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cryptologos.cc/logos/monero-xmr-logo.svg?v=040" width="48" alt="Monero"><br>
+      <strong>Monero</strong><br>
+      <sub>XMR · Mainnet</sub>
+    </td>
+    <td>
+      <code>44g9S4NbTmp7Npqz3NNYqCGatsBShyg37Bgyf2Fbn59iexYNMDgjyCkbZUGE6eQzvEiHoboUawDFS47SE9U7c1KUH9sdtVV</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>🔒 Your support helps keep independent development alive.</strong><br>
+  <sub>Verify the network before sending. Cryptocurrency transactions are generally irreversible.</sub>
+</p>
 
 ---
 
